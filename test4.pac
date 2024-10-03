@@ -10,7 +10,8 @@ const PROXY_DOMAINS = [
     "djinni.co", // HR
     "hubspot.com", // Sales
     "myip.com", // для теста
-	  "mongodb.net"
+    "mongodb.net",  
+    "udi3vzw.mongodb.net"
 ]
 function FindProxyForURL(url, host) {
     // Проверка основного домена и всех его поддоменов
