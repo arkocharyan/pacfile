@@ -9,7 +9,7 @@ const PROXY_DOMAINS = [
     "linkedin.com", // HR
     "djinni.co", // HR
     "hubspot.com", // Sales
-    "whatismyipaddress.com", // для теста
+    "myip.com.com", // для теста
 	  "mongodb.net"
 ]
 function FindProxyForURL(url, host) {
