@@ -9,7 +9,7 @@ const PROXY_DOMAINS = [
     "linkedin.com", // HR
     "djinni.co", // HR
     "hubspot.com", // Sales
-    "myip.com", // для теста
+    "whatismyip.com", // для теста
     "mongodb.net",  
     "udi3vzw.mongodb.net"
 ]
